@@ -7,7 +7,7 @@ Bash script used to run updates on Kali Linux
 
 To install, run the following:
 
-<code>git clone https://github.com/donchan91/updateme-bash-script</code>
+<code>git clone https://github.com/takashidoyama/updateme-bash-script</code>
 
 Set running permissions of install.sh using the following:
 
